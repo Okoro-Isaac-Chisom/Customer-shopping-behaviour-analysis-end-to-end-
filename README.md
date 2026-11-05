@@ -73,9 +73,8 @@ The dashboard connects directly to SQL Server and includes:
 - Only about **27%** of customers are subscribers
 - **Clothing** is the top-earning category, followed by Accessories, Footwear and Outerwear
 - Blouse, Shirt and Dress lead the top 10 products by revenue
-- Revenue is spread fairly evenly across age groups, with Young Adults slightly ahead
+- Revenue is spread fairly evenly across age groups, with Young Adults slightly ahead<img width="986" height="585" alt="customershopping behavioursql" src="https://github.com/user-attachments/assets/cc9da28f-f829-4663-a407-a4157cfd2bb2" />
 
-> Add any extra findings from your SQL results here, such as the subscriber vs. non-subscriber spend comparison, discount-dependent products, or the New / Returning / Loyal customer split.
 
 ## Repository Structure
 
